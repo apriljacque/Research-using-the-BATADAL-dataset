@@ -77,3 +77,19 @@ This repository supports the Doctor of Engineering praxis research:
 The research evaluates how blockchain verification can improve confidence in anomaly detection results by ensuring data integrity before analysis is performed.
 # Research-using-the-BATADAL-dataset
 Includes my experimentation on the BATADAL datasets
+
+## Reproducibility
+
+The file April_Jacque_BATADAL_Test_Final.ipynb contains the complete experimental workflow used in this research.
+
+The notebook contains the complete workflow for:
+
+- Data preprocessing
+- Hash-chain generation
+- Blockchain verification
+- Anomaly detection modeling
+- Performance evaluation
+- Statistical analysis
+- Results
+
+Users may reproduce the experiments by opening the notebook and following the documented workflow.
