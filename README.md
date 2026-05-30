@@ -75,8 +75,7 @@ This repository supports the Doctor of Engineering praxis research:
 **A Hybrid Blockchain-Machine Learning Approach for Securing ICS and SCADA Systems Against State-Sponsored Cyberattacks**
 
 The research evaluates how blockchain verification can improve confidence in anomaly detection results by ensuring data integrity before analysis is performed.
-# Research-using-the-BATADAL-dataset
-Includes my experimentation on the BATADAL datasets
+
 
 ## Reproducibility
 
