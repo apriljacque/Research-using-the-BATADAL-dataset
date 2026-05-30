@@ -16,12 +16,12 @@ The BATADAL (BATtle of the Attack Detection Algorithms) dataset was developed to
 
 ### Original Datasets
 
-#### BATADAL_Training_Dataset1.csv
+#### BATADAL_Training Dataset 1 does not contain any attacks.csv
 
 * Contains normal operational data.
 * Used to establish baseline system behavior during model training.
 
-#### BATADAL_Test_Dataset.csv
+#### BATADAL_test_dataset.csv
 
 * Contains both normal and attack data.
 * Used to evaluate anomaly detection performance.
@@ -33,7 +33,7 @@ The BATADAL (BATtle of the Attack Detection Algorithms) dataset was developed to
 * Blockchain-verified version of the training dataset.
 * Includes hash-chain fields for data integrity verification.
 
-#### BATADAL_Test_Dataset_with_hashchain.csv
+#### BATADAL_test_dataset_with_hashchain.csv
 
 * Blockchain-verified version of the test dataset.
 * Includes hash-chain fields for data integrity verification.
