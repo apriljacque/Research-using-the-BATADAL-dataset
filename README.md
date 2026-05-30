@@ -2,7 +2,7 @@
 
 ## Overview
 
-This folder contains the datasets used to evaluate a hybrid framework that combines blockchain verification with unsupervised machine learning for anomaly detection in Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition (SCADA) systems.
+This folder contains the datasets used to evaluate a proposed hybrid framework that combines blockchain verification with unsupervised machine learning for anomaly detection in Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition (SCADA) systems.
 
 The BATADAL dataset was selected because it provides realistic water distribution system data containing both normal operations and cyberattack scenarios. The dataset was used to evaluate the effectiveness of blockchain verification in improving the reliability of anomaly detection.
 
