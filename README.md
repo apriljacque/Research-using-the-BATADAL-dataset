@@ -68,6 +68,15 @@ The framework was evaluated using the following performance benchmarks:
 
 If you use the BATADAL dataset in your research, please cite the original dataset creators and associated publications according to their citation requirements.
 
+Taormina, R., Galelli, S., Tippenhauer, N. O., Salomons, E., Ostfeld, A., Eliades, D. G., 
+Aghashahi, M., Sundararajan, R., Pourahmadi, M., Banks, M. K., Brentan, B. M., 
+Campbell, E., Lima, G., Manzi, D., Ayala-Cabrera, D., Herrera, M., Montalvo, I., 
+Izquierdo, J., Luvizotto, E., & Chandy, S. E. (2018). Battle of the Attack 
+Detection Algorithms: Disclosing Cyber Attacks on Water Distribution Networks. 
+Journal of Water Resources Planning and Management, 144(8), 04018048. 
+https://doi.org/10.1061/(asce)wr.1943-5452.0000969
+
+
 ## Praxis Context
 
 This repository supports the Doctor of Engineering praxis research:
