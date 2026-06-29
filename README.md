@@ -10,7 +10,7 @@ The BATADAL dataset was selected because it provides realistic water distributio
 
 The BATADAL (BATtle of the Attack Detection Algorithms) dataset was developed to support research in cyberattack detection for water distribution systems.
 
-**Dataset Website:** https://batadal.net
+**Dataset Website:** https://www.batadal.net/data.html
 
 ## Files Included
 
